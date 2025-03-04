@@ -4,9 +4,9 @@ O trabalho, intitulado "Avaliação de Modelos de Linguagem de Grande Porte no S
 
 A tabela abaixo inclui links para as 30 perguntas selecionadas do Stack Overflow, suas respectivas respostas mais votadas, as respostas de cada LLM, e a análise comparativa das respostas dos LLMs em relação à resposta mais votada do Stack Overflow.
 
-| Pergunta | Stack Overflow | ChatGPT-4o | ChatGPT-4 | Gemini | AWS Q | Comparação |
-| :--------: | :--------------: | :---------: | :----------: | :------: | :-----: | :-------------------: |
-| [#1](questions/01.md) | [Resposta](questions/01.md#highest-scored-answer) | [Resposta](questions/01.md#chatgpt-4o) | [Resposta](questions/01.md#chatgpt-4) | [Resposta](questions/01.md#gemini) | [Resposta](questions/01.md#q) | [Análise](questions/01.md#analysis) |
+| Pergunta | Stack Overflow | ChatGPT-4o | ChatGPT-4 | Gemini | AWS Q | DeepSeek-V3 | ChatGPT-o1 | Comparação |
+| :--------: | :--------------: | :---------: | :----------: | :------: | :-----: | :---------: | :---------: | :-------------------: |
+| [#1](questions/01.md) | [Resposta](questions/01.md#highest-scored-answer) | [Resposta](questions/01.md#chatgpt-4o) | [Resposta](questions/01.md#chatgpt-4) | [Resposta](questions/01.md#gemini) | [Resposta](questions/01.md#q) | [Resposta](questions/01.md#deepseek-v3) | [Resposta](questions/01.md#chatgpt-01) | [Análise](questions/01.md#analysis) |
 | [#2](questions/02.md) | [Resposta](questions/02.md#highest-scored-answer) | [Resposta](questions/02.md#chatgpt-4o) | [Resposta](questions/02.md#chatgpt-4) | [Resposta](questions/02.md#gemini) | [Resposta](questions/02.md#q) | [Análise](questions/02.md#analysis) |
 | [#3](questions/03.md) | [Resposta](questions/03.md#highest-scored-answer) | [Resposta](questions/03.md#chatgpt-4o) | [Resposta](questions/03.md#chatgpt-4) | [Resposta](questions/03.md#gemini) | [Resposta](questions/03.md#q) | [Análise](questions/03.md#analysis) |
 | [#4](questions/04.md) | [Resposta](questions/04.md#highest-scored-answer) | [Resposta](questions/04.md#chatgpt-4o) | [Resposta](questions/04.md#chatgpt-4) | [Resposta](questions/04.md#gemini) | [Resposta](questions/04.md#q) | [Análise](questions/04.md#analysis) |
